@@ -1,0 +1,30 @@
+h1{
+	text-align: center;
+	color: lightblue;
+	font-family:  agency fb;
+	 font-size: 60px;
+	  font-style: bold;
+	   font-variant: normal;
+	    font-weight: bolder;
+	line-height: 26.4px; 
+}
+body{
+	background-image: url(got.jpg);
+}
+.questions{
+	font-family: Comic Sans MS, Comic Sans, cursive;
+	font-style: normal;
+	font-size: 24px;
+	color: white;
+}
+hr{
+	border: 5px solid red;
+border-style: solid;
+border-color: rgba(255,0,0,1);
+border-width: 5px;
+
+	height: 5px;
+}
+.new{
+	align-content: 'center';
+}
